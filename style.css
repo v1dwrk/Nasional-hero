@@ -1,0 +1,25 @@
+body {  background-color: #e7e7e7;
+    font-family: sans-serif;
+    padding-bottom: 30px;
+    padding: 0px 5% 30px;
+    background-color: #e7e7e7;
+    font-family: sans-serif;
+    padding-bottom: 30px;
+    padding: 0px 5% 30px;
+}
+
+h1 {
+    font-family: serif;
+    text-align: center;
+    color: crimson;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+img {
+    width: 150px;
+    height: 180px;
+       
+}
